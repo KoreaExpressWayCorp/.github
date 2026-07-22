@@ -1,2 +1,3 @@
 PrivacyShield live deployment
-Created 2026-07-22
+Verified 2026-07-22
+All loader chunks present: 10
